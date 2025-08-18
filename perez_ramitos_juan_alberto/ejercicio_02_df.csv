@@ -1,0 +1,29 @@
+id_cliente,nombre,tipo_documento,numero_documento,fecha_nacimiento,segmento
+1,Norma Fisher,PAS,43728456,1957-03-25,Retail
+11,Nathan Ross,PAS,45879550,1995-09-28,Corporativo
+59,Nicole Henson,PAS,23381826,1973-04-07,Corporativo
+117,Nicholas Cook,PAS,88183844,2003-09-15,PYME
+181,Natalie Robinson,PAS,19299003,1972-11-16,Retail
+186,Natalie Caldwell,DNI,22316737,1940-01-18,Corporativo
+224,Nicholas Wright,DNI,49604712,1958-12-22,Retail
+296,Nicholas Wright PhD,DNI,56683473,1958-04-16,Premium
+316,Natasha Welch,PAS,16534282,2004-03-27,Retail
+330,Nicholas Smith,PAS,03361328,1999-11-25,Premium
+376,Nicholas Reed,CE,32009509,1948-08-08,Corporativo
+412,Nicole Henry,PAS,20364979,1986-08-05,PYME
+579,Nicholas Cohen,CE,09617078,1968-08-01,PYME
+585,Nicole Perez,CE,18075822,1953-11-06,Premium
+589,Natalie Griffin,PAS,48666160,1976-07-09,Corporativo
+606,Natasha Conway,PAS,38285480,1971-05-17,Corporativo
+637,Nathan Kim,DNI,87894979,1976-11-24,Premium
+653,Nathan Williamson,PAS,25457305,1986-08-26,Premium
+688,Nancy Thomas,CE,27444597,1974-03-04,Premium
+721,Natasha Lee,DNI,63734205,1996-08-07,Premium
+727,Nathan Lee,CE,98372217,1967-07-14,Corporativo
+729,Nathan Kennedy,PAS,09196500,1951-06-08,Corporativo
+756,Nicholas Cardenas,CE,22199414,1952-01-05,PYME
+798,Nicholas Vang,PAS,07072027,2000-08-10,Retail
+834,Nicole Garcia,CE,83355920,1950-02-08,PYME
+882,Nathaniel Lewis,DNI,07997528,1975-01-02,PYME
+913,Nicole Powell,PAS,90195789,1989-12-03,PYME
+956,Nicholas Campbell,DNI,85192758,1994-08-27,Premium
