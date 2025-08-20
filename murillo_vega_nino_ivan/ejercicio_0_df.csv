@@ -1,0 +1,109 @@
+id_cliente,nombre,tipo_documento,numero_documento,fecha_nacimiento,segmento
+17,Michelle Kelley,CE,10124587,1995-01-13,Retail
+22,Michael Anderson,DNI,85382697,1949-10-15,Premium
+24,Melinda Massey,DNI,36725037,1975-04-23,Retail
+27,Matthew Davies,PAS,01197380,2002-01-03,PYME
+28,Mrs. Erika Wilson,CE,79862424,1979-07-24,Premium
+30,Michael Watson,DNI,86301224,1951-03-19,PYME
+43,Michael Levy,DNI,99663440,1943-07-24,Premium
+46,Michael Mccullough,PAS,16272385,1999-02-21,Corporativo
+53,Matthew Smith,DNI,97903322,1952-09-11,Corporativo
+64,Mitchell Smith,DNI,03810433,1995-08-07,PYME
+74,Michelle Orr,CE,47783165,1983-03-04,Premium
+85,Mr. George Mcdaniel Jr.,CE,96601253,1950-12-11,Premium
+91,Ms. Carol Lee MD,DNI,37664577,1995-07-19,Corporativo
+92,Michaela Leach,DNI,42700457,1970-05-05,Premium
+103,Michael Ruiz,CE,02669874,1994-01-17,Corporativo
+120,Mrs. Lisa Hughes,DNI,86262029,1942-10-24,Retail
+125,Marie Montes,CE,80172550,1988-03-04,PYME
+132,Mary Armstrong,CE,69619469,1954-04-23,Premium
+134,Melissa Fisher,CE,27676515,1960-05-21,Premium
+138,Michael Johnson,CE,85797271,2002-03-02,PYME
+143,Monique Santana,DNI,13262812,1990-07-06,Corporativo
+160,Melissa Flynn,DNI,10869665,1969-12-21,Corporativo
+163,Mark Miller,CE,31601753,1990-12-28,Premium
+188,Melissa Acosta,DNI,31825046,1955-01-14,Corporativo
+191,Melissa Hernandez,CE,56594577,2003-02-12,Corporativo
+200,Mark Black,CE,05894996,2004-09-12,Premium
+204,Matthew Taylor,PAS,52870173,1993-02-22,Corporativo
+212,Micheal Williams,DNI,09592778,2003-03-08,Premium
+228,Michele Guerrero,CE,70152940,1954-09-08,PYME
+241,Michele Miller,PAS,74820760,1948-12-18,Corporativo
+242,Michele Underwood,CE,21870204,1993-01-20,Premium
+245,Mary Perez,PAS,19338454,1963-01-12,Corporativo
+247,Mark Gomez,PAS,16389866,1973-01-11,Retail
+254,Melissa Ford,PAS,10613690,1942-06-19,PYME
+257,Melissa Miller,CE,63224286,1955-10-07,Premium
+272,Michael Clark,CE,28633343,1975-08-18,Retail
+295,Mrs. Cheyenne Gomez,PAS,85333579,1987-04-02,Retail
+306,Michael Murphy,DNI,93391275,1941-04-07,Corporativo
+309,Megan Ruiz,DNI,95320015,1961-01-05,Retail
+312,Michael Larson,PAS,73857589,1967-02-12,PYME
+315,Monica Stone,CE,25083485,1995-08-26,Retail
+319,Michael Casey,DNI,56705873,1974-10-27,Premium
+329,Mallory Taylor,PAS,78229177,2002-08-04,PYME
+360,Matthew Church,CE,07570064,1968-12-23,PYME
+362,Matthew Sanders,DNI,31666962,1979-03-05,Retail
+372,Mark Miranda,PAS,04464048,1982-07-02,Premium
+382,Michelle Rogers,CE,03274544,1947-09-03,Premium
+391,Melissa Larson,CE,19307172,1980-08-26,Premium
+392,Mrs. Melissa Mendez,PAS,97483019,1965-03-09,Premium
+395,Michael Estrada,PAS,67532852,1994-11-15,Retail
+419,Mary Harrington,CE,90706494,1958-11-11,Corporativo
+442,Margaret Carlson,DNI,96257057,1945-11-15,Corporativo
+454,Matthew Greene,DNI,59925864,2002-11-12,Corporativo
+469,Madison Mitchell,DNI,54670271,1986-02-02,Retail
+470,Michael Martin,PAS,97187604,1977-07-16,Retail
+471,Michelle Myers,CE,21493681,2006-12-25,PYME
+477,Madeline Yu,DNI,82197778,1985-02-13,Corporativo
+478,Marvin Burns,DNI,27867558,1965-06-24,PYME
+491,Mark Baker,CE,76890008,1947-06-20,Retail
+500,Melissa Hayden MD,PAS,03021986,1981-01-14,PYME
+504,Matthew Hammond,PAS,05474150,1945-04-11,Premium
+511,Megan Mitchell,DNI,02635572,1941-03-03,Corporativo
+512,Margaret Adams,PAS,44147150,1998-11-15,Premium
+519,Michael Woods,DNI,14992040,1941-09-10,PYME
+524,Michael Dickerson,CE,92116056,1963-12-04,Corporativo
+531,Michelle Smith,DNI,51077818,1970-12-22,Retail
+537,Mary Scott,CE,62363787,1944-10-28,Corporativo
+541,Mary Greene,CE,40299202,1999-07-03,Premium
+547,Meredith Rivera,CE,22912912,1997-09-01,Corporativo
+554,Matthew Williams,DNI,24028367,1989-04-03,Retail
+562,Mr. Henry Perkins DDS,CE,97631966,1987-03-18,Corporativo
+610,Malik Gardner,PAS,48053338,1974-11-27,Corporativo
+617,Mr. Timothy Whitaker,CE,58463027,1986-12-05,Premium
+627,Michael Carlson,PAS,77189968,2000-06-04,Retail
+635,Melissa Brown,DNI,30408734,2001-11-08,PYME
+650,Mary Dickson,CE,87183739,1951-12-30,Retail
+668,Michael Weaver,CE,07020988,1949-12-13,Retail
+678,Margaret Morrison,PAS,62878336,1941-07-29,PYME
+689,Michael Jones,DNI,06712231,2001-02-07,PYME
+691,Marilyn Rojas,PAS,55514088,1966-06-22,PYME
+702,Meghan Perkins,CE,34832586,1989-02-18,Retail
+720,Marco Coleman,CE,41905694,1981-03-17,PYME
+736,Megan Smith,PAS,63817268,1949-06-10,Corporativo
+749,Mark Smith,PAS,35300910,1968-04-03,Corporativo
+751,Mark Hines,DNI,30083186,1971-06-06,PYME
+752,Michelle King,PAS,47720374,1958-03-05,PYME
+763,Michelle Cooper,CE,11242525,2001-11-07,Premium
+783,Morgan Torres,PAS,07811229,1966-03-26,PYME
+804,Marissa Taylor,CE,19120142,1947-06-30,PYME
+805,Morgan Estrada,PAS,01576629,1958-05-12,Premium
+808,Mrs. Rebecca Thomas,CE,28465634,1956-09-17,Retail
+809,Mark Williamson,DNI,96834002,1986-08-04,Premium
+820,Meghan Scott,DNI,47469215,1941-08-27,Premium
+849,Mrs. Tina King,PAS,90999925,1962-10-29,Premium
+850,Miranda Braun,PAS,16866085,1992-05-13,Corporativo
+866,Michele Pratt,DNI,95176608,1973-06-12,Corporativo
+869,Mary Duarte,DNI,15040500,1947-04-06,Corporativo
+884,Mary Davis,DNI,43913504,1974-09-30,PYME
+892,Marcus Howell,PAS,09187047,1951-11-15,Premium
+895,Ms. Kristine Mclaughlin,DNI,22516424,1965-03-08,Corporativo
+912,Michael Lewis,CE,99190216,2001-06-25,Retail
+918,Mary Martinez,CE,31084156,2003-05-13,Corporativo
+921,Miranda Ware,CE,73480290,1979-11-06,Premium
+932,Mr. David Savage,CE,29357733,1943-08-19,Retail
+954,Micheal Bond,PAS,52144196,1962-07-16,Retail
+961,Michael Wright,CE,66343434,1944-03-13,Corporativo
+977,Maureen Salinas,CE,26994157,1948-04-11,PYME
+1000,Melissa Adams,CE,30731621,1964-11-11,Retail
